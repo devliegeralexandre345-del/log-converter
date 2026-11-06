@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/log-converter/build/CMakeFiles/log-converter.dir
+/home/ubuntu/cpp-generator/workspace/log-converter/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/log-converter/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/log-converter/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/log-converter/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+1	249	1793980201916094921	CMakeFiles/unit_tests.dir/tests/test.cpp.o	aa322662a4ab324f
+1	251	1793980201918685926	CMakeFiles/unit_tests.dir/src/log_converter.cpp.o	778744b05a8ca7d9
+0	253	1793980201920095066	CMakeFiles/log-converter.dir/src/log_converter.cpp.o	be817235879f79ac
+251	295	1793980201962732884	unit_tests	ae6a2ea357fc5045
+1	302	1793980201969096841	CMakeFiles/log-converter.dir/src/main.cpp.o	f85645e4899825a5
+302	347	1793980202014557335	log-converter	9a684c7add937c96
